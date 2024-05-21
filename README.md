@@ -3,7 +3,7 @@
 [![Tests][badge-tests]][link-tests]
 [![Documentation][badge-docs]][link-docs]
 
-[badge-tests]: https://img.shields.io/github/workflow/status/your_github_username/scverse-doc/Test/main
+[badge-tests]: https://img.shields.io/github/actions/workflow/status/your_github_username/scverse-doc/test.yaml?branch=main
 [link-tests]: https://github.com/your_github_username/scverse-doc/actions/workflows/test.yml
 [badge-docs]: https://img.shields.io/readthedocs/scverse-doc
 
@@ -17,7 +17,7 @@ Please refer to the [documentation][link-docs]. In particular, the
 
 ## Installation
 
-You need to have Python 3.8 or newer installed on your system. If you don't have
+You need to have Python 3.10 or newer installed on your system. If you don't have
 Python installed, we recommend installing [Mambaforge](https://github.com/conda-forge/miniforge#mambaforge).
 
 There are several alternative options to install scverse-doc:
